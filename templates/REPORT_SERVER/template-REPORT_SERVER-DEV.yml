@@ -4,7 +4,7 @@ application.encryption.key:
   displayName: "Report Encryption Key"
   description: "Symmetric encryption key used for encrypting sensitive report data"
   sectionName: "REPORT_ENCRYPTION_KEY"
-  encrypted: true
+  encrypted: false
   rule: null
   restartRequired: true
   defaultValue: "report-encryption-key"
