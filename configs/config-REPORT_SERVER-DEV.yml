@@ -3,7 +3,7 @@ application:
     key: "{cipher}2140ce81aab918f8be4bbdaed53646d77e5f1685f7738b2111fd0e5cfc5795d9d4cb3634614cc8394515914a55f1ae81"
     salt: "{cipher}2015fbec5e4b6285df25bf5dc456705edc457f48ad68fff08e326deee86df252fbd4b82c26e5e87f610eaeb0ceecc834"
   keycloak-admin:
-    app-realm-id: "sistas"
+    app-realm-id: "sfdatryugıjo"
     app-resource-id: "chatbot"
     app-resource-secret: "{cipher}0a4fb0ea45cb7d1af6ce547cb8ea5326d79ec4c4cc84650c340c571b732e4a2049f622e360c6bddfe4cd4843e01a253e"
     client-id: "admin-cli"
